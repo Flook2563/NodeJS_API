@@ -1,0 +1,35 @@
+{
+    "users": [
+      {
+        "name": "jakgree.b",
+        "password": "12345",
+        "phone": "0826232323",
+        "id": 1
+      },
+      {
+        "name": "pattra.i",
+        "password": "123456",
+        "phone": "0899999999",
+        "id": 2
+      },
+      {
+        "name": "nattakan",
+        "password": "123457",
+        "phone": "08956454545",
+        "id": 3
+      },
+      {
+        "name": "unitan",
+        "password": "123458",
+        "phone": "08656206021",
+        "id": 4
+      },
+      {
+        "name": "jakgree.b",
+        "password": "123459",
+        "phone": "0855454454",
+        "id": 5
+      }
+    ]
+  }
+  
